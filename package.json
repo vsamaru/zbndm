@@ -2,7 +2,7 @@
 	"private": true,
 	"version": "0.0.0",
 	"scripts": {
-		  "g": "git add . && git commit -m 0 && git push -u origin main -f",
+		"g": "git add . && git commit -m 0 && git push -u origin main -f",
 		"dev": "wrangler pages dev public"
 	},
 	"devDependencies": {
